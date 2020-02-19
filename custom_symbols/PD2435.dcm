@@ -1,0 +1,12 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Galion_Logo
+D Galion author logo
+$ENDCMP
+#
+$CMP PD2435
+D 4-Character 5 x 7 Dot Matrix Alphanumeric Programmable Display with Built-in CMOS Control Functions
+K 5x7 Dot Matrix Display
+$ENDCMP
+#
+#End Doc Library
